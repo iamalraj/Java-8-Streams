@@ -81,22 +81,31 @@ public class Main {
 
 /*
  * 
- * [Person [name=Ann, age=24, gender=FEMALE], Person [name=Maria, age=18,
- * gender=FEMALE], Person [name=Candy, age=30, gender=FEMALE], Person [name=Isa,
- * age=39, gender=FEMALE]] [Person [name=Antonio, age=20, gender=MALE], Person
- * [name=Frank, age=32, gender=MALE], Person [name=Alex, age=43, gender=MALE],
- * Person [name=Steve, age=32, gender=MALE]] [Person [name=Antonio, age=20,
- * gender=MALE], Person [name=Ann, age=24, gender=FEMALE]] true false true
- * Person [name=Alex, age=43, gender=MALE] Person [name=Maria, age=18,
- * gender=FEMALE] MALE Person [name=Antonio, age=20, gender=MALE] Person
- * [name=Frank, age=32, gender=MALE] Person [name=Alex, age=43, gender=MALE]
- * Person [name=Steve, age=32, gender=MALE] FEMALE Person [name=Ann, age=24,
- * gender=FEMALE] Person [name=Maria, age=18, gender=FEMALE] Person [name=Candy,
- * age=30, gender=FEMALE] Person [name=Isa, age=39, gender=FEMALE] 20 32 24 18
- * 30 43 32 39 Person [name=Maria, age=18, gender=FEMALE] Person [name=Antonio,
- * age=20, gender=MALE] Person [name=Ann, age=24, gender=FEMALE] Person
- * [name=Candy, age=30, gender=FEMALE] Person [name=Frank, age=32, gender=MALE]
- * Person [name=Steve, age=32, gender=MALE] Person [name=Isa, age=39,
- * gender=FEMALE] Person [name=Alex, age=43, gender=MALE]
- * 
+ * [Person [name=Ann, age=24, gender=FEMALE], Person [name=Maria, age=18,gender=FEMALE], Person [name=Candy, age=30, gender=FEMALE], Person [name=Isa,age=39, gender=FEMALE]] 
+ * [Person [name=Antonio, age=20, gender=MALE], Person[name=Frank, age=32, gender=MALE], Person [name=Alex, age=43, gender=MALE],Person [name=Steve, age=32, gender=MALE]] 
+ * [Person [name=Antonio, age=20, gender=MALE], Person [name=Ann, age=24, gender=FEMALE]] 
+ * true 
+ * false 
+ * true
+ * Person [name=Alex, age=43, gender=MALE] 
+ * Person [name=Maria, age=18, gender=FEMALE] 
+ * MALE
+ * Person [name=Antonio, age=20, gender=MALE] 
+ * Person [name=Frank, age=32, gender=MALE] 
+ * Person [name=Alex, age=43, gender=MALE]
+ * Person [name=Steve, age=32, gender=MALE] 
+ * FEMALE 
+ * Person [name=Ann, age=24, gender=FEMALE] 
+ * Person [name=Maria, age=18, gender=FEMALE] 
+ * Person [name=Candy, age=30, gender=FEMALE] 
+ * Person [name=Isa, age=39, gender=FEMALE] 
+ * 20 32 24 18 30 43 32 39 
+ * Person [name=Maria, age=18, gender=FEMALE]
+ * Person [name=Antonio,age=20, gender=MALE] 
+ * Person [name=Ann, age=24, gender=FEMALE] 
+ * Person [name=Candy, age=30, gender=FEMALE] 
+ * Person [name=Frank, age=32, gender=MALE]
+ * Person [name=Steve, age=32, gender=MALE] 
+ * Person [name=Isa, age=39, gender=FEMALE] 
+ * Person [name=Alex, age=43, gender=MALE] 
  */
